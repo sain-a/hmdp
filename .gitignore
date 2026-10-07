@@ -1,0 +1,21 @@
+# IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# maven
+target/
+
+# logs
+logs/
+*.log
+
+# temp
+*.tmp
+*.bak
+
+# env
+.env
+application-*.yml
+
